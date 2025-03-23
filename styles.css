@@ -94,6 +94,7 @@ main{
     flex-wrap: wrap;
     width:60%;
     margin:50px auto;
+    justify-content:center;
 }
 
 #skills div img{
@@ -123,6 +124,7 @@ main{
     flex-wrap: wrap;
     width:70%;
     margin:50px auto;
+    justify-content:center;
 }
 
 #projects div img{

@@ -118,6 +118,7 @@ main{
 #skills div:hover{
     background-color: yellow;
     cursor: pointer;
+    color:black;
 }
 #projects{
     display: flex;

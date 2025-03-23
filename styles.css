@@ -118,6 +118,8 @@ main{
 #skills div:hover{
     background-color: yellow;
     cursor: pointer;
+}
+#skills div:hover span{
     color:black;
 }
 #projects{
